@@ -108,13 +108,20 @@ Can local attorneys accept altcoins as payment? (write to bar for legal opinion)
 Follow-up **LexDAO to consider submission on remaining 5% of legislation** https://discord.gg/gBfxAV on _#raid-smart-co_ channel after discussing with other DAOs what legal scaffolding they need.
 
 
-========================================= 
 
-What is Legal Engineering
-What is a 
+---------------------------
+Legal Engineering
+---------------------------
+
+Legal Engineering is the act of planning, managing, and executing methods for legal purpose. It is not legal advice, it is using tools to help make legal processes more manageable by applying digital instructions to digital artifacts. 
+
+---------------------------
+What is a DAO
+---------------------------
     Distributed
     Autonomous
     Organisation
+    
 Algorithms as Law
 Interface to Traditional Law
 Private Law
@@ -155,10 +162,6 @@ Map properties to function
 Functional Equivalence?
 
 Legislative Overlay
-
-++++++++++++++++++++++++++++++++++++++++++
-
-Legal Engineering is the act of planning, managing, and executing methods for legal purpose. It is not legal advice, it is using tools to help make legal processes more manageable by applying digital instructions to digital artifacts. 
 
 
 ++++++++++++++++++++++++++++++++++++++++++
@@ -209,9 +212,9 @@ Are they going to be swappable and interchangeable?
 Are their tied to and event or identiity?
 Can they be used as contrinution to wards consideration of good-will? legal services? medical advice? appraisals?
 
-+++++++++++++++++++++++++++++
-
-Lean on Trust Law
+---------------------------
+Trust Law
+---------------------------
 
 Most legal claims fall into three categories:
 tort law, the USC or state codes, the UCC or trust law.
@@ -236,11 +239,13 @@ Friend?
 
 An agent removal and replacement option.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------
+LexDAO Token Structures
+---------------------------
 
 The method can pass as a properly executed proxy vote.
 
-LexDAO accesses 
+LexDAO accesses these smart-contracts
 1) Moloch v2x
 2) LexLocker - ADR and other custodial associations
 3) LexToken a fungible - tokenized asset offering
@@ -254,9 +259,10 @@ If it is a unincorporated association it needs to be formalized in order to take
 
 We will need a registered agent, where the real property is, file some sort of memo with a secretarty state or county recorders office.
 
-==================================
 
+---------------------------
 HB74 
+---------------------------
 
 What about a Special Purpose Investment Vehicle 
 Special Purpose Depository Institutions
@@ -281,28 +287,29 @@ Outlier scenarios: permanently leaves country, missing persons,deceased,power of
 
 When will the federal courts have property jurisdiction? what kind of disputes qualify?  Bankruptcy. 
 
-============================= 
-
-WYOMING: 
-THE TOKEN IS PROPERTY
+---------------------------
+WYOMING: THE TOKEN IS PROPERTY
+---------------------------
 assets must be held in the DAO 
 abondonment procedures and recording 
 eschew to the state
-DEATH DIVORCE
+
+DEATH
+DIVORCE
 SUPER ACCOUNT 
 MULTISIG
 
 +++++++++++++++++++++++++++++++
-
 GENERAL CLUB
-ANY CLUB HAS MEMBER REQUIRMENTS. THE CREDENTIALS FOR TOKENS,  
++++++++++++++++++++++++++++++++
+ANY CLUB HAS MEMBER REQUIRMENTS. 
+THE CREDENTIALS FOR TOKENS,  
 THE ENTITY IS THEIR CONCERN 
 international law consideration, 
 blacklists based on reasonable standards 
-bankrupt parties fast-track, 
+bankrupt parties fast-track resolutions
 
 ++++++++++++++++++++++++++++++
-
 Preferred way is Incorporated WY, LLC.
 Recognized as Unincorporated association
 which is provided certain recognition and benefits of the state.
@@ -328,10 +335,11 @@ Must put a registered agent in WY to take advantage of the overlay
 
 Create a DAO to ovelay the token to member and governance accountability to WY.
 
-========================================
 
+---------------------------
 Special Purpose Depository Institutions
 HB 74 
+---------------------------
 
 http://wyomingbankingdivision.wyo.gov/home/areas-of-regulation/laws-and-regulation/special-purpose-depository-institution
 
