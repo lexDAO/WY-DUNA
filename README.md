@@ -139,7 +139,7 @@ Token Mechanism
 
 
 
-![]https://bafybeicul6lplrmgeoen3ntlqy4v4ypfjhmzsmeuibxv2ppnakdgsmrbxi.ipfs.infura-ipfs.io/)
+![](https://bafybeicul6lplrmgeoen3ntlqy4v4ypfjhmzsmeuibxv2ppnakdgsmrbxi.ipfs.infura-ipfs.io/)
 
 
 
