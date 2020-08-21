@@ -106,3 +106,53 @@ Can local attorneys accept altcoins as payment? (write to bar for legal opinion)
 
 #### Follow-up for LexGroups
 Follow-up **LexDAO to consider submission on remaining 5% of legislation** https://discord.gg/gBfxAV on _#raid-smart-co_ channel after discussing with other DAOs what legal scaffolding they need.
+
+
+========================================= 
+
+What is Legal Engineering
+What is a 
+    Distributed
+    Autonomous
+    Organisation
+Algorithms as Law
+Interface to Traditional Law
+Private Law
+
+
+++++++++++++++++++++++++++++++++++++++++++
+
+Markets                Maths                Mechanisms
+                Web 3.0 Cryptoeconomics
+
+Roles                    Rules                            Ref
+
+Contract                Compliance                Complaint
+                    Traditional Legal
+
+
+Legal Interpretation
+
+Functional Mapping
+
+Token Mechanism
+
+
+
+![]https://bafybeicul6lplrmgeoen3ntlqy4v4ypfjhmzsmeuibxv2ppnakdgsmrbxi.ipfs.infura-ipfs.io/)
+
+
+
+++++++++++++++++++++++++++++++++++++++++++
+
+
+++++++++++++++++++++++++++++++++++++++++++
+
+
+++++++++++++++++++++++++++++++++++++++++++
+
+
+++++++++++++++++++++++++++++++++++++++++++
+
+
+++++++++++++++++++++++++++++++++++++++++++
