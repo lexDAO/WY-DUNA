@@ -194,7 +194,9 @@ Id includes code and culture - @ LL
 3box leads in Web3 Identity applications
 
 ++++++++++++++++++++++++++++++
+
 There are:
+
 Member tokens
 Capital tokens
 Goodwill tokens
