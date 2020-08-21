@@ -155,6 +155,7 @@ Map properties to function
 Functional Equivalence?
 
 Legislative Overlay
+
 ++++++++++++++++++++++++++++++++++++++++++
 
 Legal Engineering is the act of planning, managing, and executing methods for legal purpose. It is not legal advice, it is using tools to help make legal processes more manageable by applying digital instructions to digital artifacts. 
@@ -180,6 +181,7 @@ For those unfamiliar with the concepts related to verifiable credentials, the fo
     The use cases and requirements that informed this specificat
 
 ======================================= 
+
 SS/ss
 
 Bankruptcy law
@@ -206,6 +208,7 @@ Are their tied to and event or identiity?
 Can they be used as contrinution to wards consideration of good-will? legal services? medical advice? appraisals?
 
 +++++++++++++++++++++++++++++
+
 Lean on Trust Law
 
 Most legal claims fall into three categories:
@@ -250,6 +253,7 @@ If it is a unincorporated association it needs to be formalized in order to take
 We will need a registered agent, where the real property is, file some sort of memo with a secretarty state or county recorders office.
 
 ==================================
+
 HB74 
 
 What about a Special Purpose Investment Vehicle 
@@ -262,6 +266,7 @@ There is a framework for utility tokens
 Framework lays as a public good and maybe non-profit status.
 
 ++++++++++++++++++++++++++++
+
 Our core purpose is legal engineering.
 SIC code for consulting services is: 
 
@@ -308,6 +313,7 @@ Sales tax system with reporting.
 By using the state account as an unisured account and it can be adjusted for what the operating.
 
 ++++++++++++++++++++++++++
+
 Even more miscellaeous notes SS/ss vvvvvv
 
 
@@ -321,6 +327,7 @@ Must put a registered agent in WY to take advantage of the overlay
 Create a DAO to ovelay the token to member and governance accountability to WY.
 
 ========================================
+
 Special Purpose Depository Institutions
 HB 74 
 
@@ -380,5 +387,3 @@ v.1
 
 ++++++++++++++++++++++++++++++++++++++++++
 
-
-++++++++++++++++++++++++++++++++++++++++++
