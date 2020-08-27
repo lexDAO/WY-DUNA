@@ -70,8 +70,7 @@ d) key issues for stare decidis ... given a problem, identify what is the hinge 
 4. Do a legal risk analysis to identify deficiencies in either smart contract, social process or (cumbersome) law
 5. write up a new problem brief for the next round
 
-https://bafybeicabozzasepaimi2iqgu53zpui6zuz6n4bzou3psnsczjz7hciesu.ipfs.infura-ipfs.io/
-![](https://bafybeicabozzasepaimi2iqgu53zpui6zuz6n4bzou3psnsczjz7hciesu.ipfs.infura-ipfs.io/)
+![](https://bafybeie7mzd3pw6gvdp7rfzutmeptcy7qpiwdwdh2zvw2zc5tsuhavfl2m.ipfs.infura-ipfs.io/)
 
 ================================
 
