@@ -58,6 +58,17 @@ b) scenario analysis - envisage all the things that could go wrong (people die, 
 c) legal reasoning - functional equivalence between algorithm / process and outcome (eg if a token is convertible, priority redeemable, and pegged to fiat, should be treated as debt)
 d) key issues for stare decidis ... given a problem, identify what is the hinge element(edited)
 
+================================
+
+This is the rough pedagogy where 
+1. Mentors devise rough plan of action
+2. pairs collect caselaw data
+3. they compare the functional equivalence (compare against  token mechanism)
+4. Do a legal risk analysis to identify deficiencies in either smart contract, social process or (cumbersome) law
+5. write up a new problem brief for the next round
+
+https://bafybeicabozzasepaimi2iqgu53zpui6zuz6n4bzou3psnsczjz7hciesu.ipfs.infura-ipfs.io/
+![](https://bafybeicabozzasepaimi2iqgu53zpui6zuz6n4bzou3psnsczjz7hciesu.ipfs.infura-ipfs.io/)
 
 ================================
 
