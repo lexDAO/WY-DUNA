@@ -35,6 +35,7 @@ These are the primary issues to hit with whatever deliverable we provide to the 
 * Draft a document to circulate. 
 
 ======================== 
+
 Break down the issues into small enough chunks for 2-3 people to engage over 4 wks or crammed into a full week.
 
 Proposed format for the Wyoming caselaw review
