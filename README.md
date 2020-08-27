@@ -34,6 +34,32 @@ These are the primary issues to hit with whatever deliverable we provide to the 
 
 * Draft a document to circulate. 
 
+======================== 
+Break down the issues into small enough chunks for 2-3 people to engage over 4 wks or crammed into a full week.
+
+Proposed format for the Wyoming caselaw review
+
+1. split students into pairs (https://www.tutorialspoint.com/extreme_programming/extreme_programming_pair_programming.htm) pref 1 legal with 1  coder (legal engineer)
+
+2. Wk 1 Overview of legal engineering. Allow them to select from a set of prepared briefs. Research the relevant law
+
+3. Wk 2 They present findings of legal research. Mentors quiz them on situation when portions are replaced with algorithms, what are human conflicts. Ask them to do risk analysis
+
+4. Wk 3 Show how better design can mitigate or eliminate risks. 
+
+5. Wk 4 they prepare new brief based on existing crypto disputes putting into traditional legal language / concepts.
+
+6. Roundup, what is the gap between legal positivism (what the legal code attempts to say is the "standard" of conduct) and legal realism (what is actually happening). 
+
+Skills acquired:
+a) legal research - from brief, identify relevant, related pieces of legislation and caselaw
+b) scenario analysis - envisage all the things that could go wrong (people die, code buggy, etc) and likely impact
+c) legal reasoning - functional equivalence between algorithm / process and outcome (eg if a token is convertible, priority redeemable, and pegged to fiat, should be treated as debt)
+d) key issues for stare decidis ... given a problem, identify what is the hinge element(edited)
+
+
+================================
+
 ### Select Committee on Blockchain, Financial Technology & Digital Information Technology-PM
 
 
