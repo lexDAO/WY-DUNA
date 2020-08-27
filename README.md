@@ -52,7 +52,8 @@ Proposed format for the Wyoming caselaw review
 
 6. Roundup, what is the gap between legal positivism (what the legal code attempts to say is the "standard" of conduct) and legal realism (what is actually happening). 
 
-Skills acquired:
+###  Skills acquired:
+
 a) legal research - from brief, identify relevant, related pieces of legislation and caselaw
 b) scenario analysis - envisage all the things that could go wrong (people die, code buggy, etc) and likely impact
 c) legal reasoning - functional equivalence between algorithm / process and outcome (eg if a token is convertible, priority redeemable, and pegged to fiat, should be treated as debt)
@@ -60,7 +61,9 @@ d) key issues for stare decidis ... given a problem, identify what is the hinge 
 
 ================================
 
-This is the rough pedagogy where 
+### This is the rough pedagogy where
+### Law student legislative overlay opportunity
+ 
 1. Mentors devise rough plan of action
 2. pairs collect caselaw data
 3. they compare the functional equivalence (compare against  token mechanism)
