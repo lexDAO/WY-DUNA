@@ -1,6 +1,11 @@
 # WY-DAO-initiative
 legislative progress for Wyoming DAO initiative - "Final 5%"
 
+
+FOUR WEEK PROGRAM 
+
+
+
 # July 2020 Blockchain Task Force Meeting Notes
 https://www.youtube.com/watch?v=ASWzQoLqvWg
 Taken by [drllau](https://www.github.com/drllau) 
