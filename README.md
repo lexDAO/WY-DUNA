@@ -62,24 +62,6 @@ Scenario Identity
 
 ======================== 
 
-
-================================
-# Liability issues - where it starts might not be where it ends up.  
-There is a confict of expectations that may lead for it to be broken,
-
-Tokens is it functionaly equvalent?  
-
-If it is not be need to make a new analysis is the problem with the code and can it be abstracted into the legal realism.
-
-
-MakerDAO - Red Pool Blue Pool.
-VC Control over the mutisig after the DAO was formed.  
-How does the DAO move forward?
-
-Lack of loyalty 
-
-
-======================
 ### This is the rough pedagogy where
 ### Law student legislative overlay opportunity
  
