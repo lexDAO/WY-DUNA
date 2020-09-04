@@ -62,19 +62,6 @@ Scenario Identity
 
 ======================== 
 
-### This is the rough pedagogy where
-### Law student legislative overlay opportunity
- 
-1. Mentors devise rough plan of action
-2. pairs collect caselaw data
-3. they compare the functional equivalence (compare against  token mechanism)
-4. Do a legal risk analysis to identify deficiencies in either smart contract, social process or (cumbersome) law
-5. write up a new problem brief for the next round
-
-![](https://bafybeie7mzd3pw6gvdp7rfzutmeptcy7qpiwdwdh2zvw2zc5tsuhavfl2m.ipfs.infura-ipfs.io/)
-
-================================
-
 ### Select Committee on Blockchain, Financial Technology & Digital Information Technology-PM
 
 
