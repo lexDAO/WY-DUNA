@@ -5,12 +5,6 @@ legislative progress for Wyoming DAO initiative - "Final 5%"
 FOUR WEEK PROGRAM 
 
 
-
-# July 2020 Blockchain Task Force Meeting Notes
-https://www.youtube.com/watch?v=ASWzQoLqvWg
-Taken by [drllau](https://www.github.com/drllau) 
-LexDAO member: 0x590d24003d5ec516502db08e01421ba56a5cd611
-
 ### Primary Issues to Hit:
 
 These are the primary issues to hit with whatever deliverable we provide to the Select Committee with respect to the regulation of DAOs: 
