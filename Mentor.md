@@ -15,7 +15,7 @@ The DAO means you can bootstrap your own mini-constitution (community) or micro-
 2. envisaging and mitigating the various resulting scenarios (bad leaver) or transaction failures (buggy code);
 3. electronic dispute resolution via neutral mediation or technical self-help (problem-solving).
 
-## Mentor-Apprentice 4wk (part-time) or 1wk (intensive)
+<details><summary>The previous hackathon ¡NEEDS! to change</summary><br>## Mentor-Apprentice 4wk (part-time) or 1wk (intensive)
 1. Pre-reqs ... basic test of Web3 literacy (TBA how much hand-holding needed?):
 * install Brave browser and get ETH pub/pri key;
 * fork the github on-boarding and markdown a brief (500 word max) profile;
@@ -24,6 +24,7 @@ The DAO means you can bootstrap your own mini-constitution (community) or micro-
 3. Select 1-3 prefs and chitchat with prospective mentors (via discord)
 4. As soon as enough apprentices indicate interest, match mentors and schedule the program
 5. Upon success, if accomplish all tasks they should gain at least 10 LXX tokens to be certified
+</details>
 
 ## Expectations
 Mentors are expected to:
